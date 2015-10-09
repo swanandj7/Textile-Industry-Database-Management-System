@@ -1,0 +1,684 @@
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 04-FEB-2014 23:40:21
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 04-FEB-2014 23:40:23
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 04-FEB-2014 23:40:26
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 04-FEB-2014 23:40:39
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 04-FEB-2014 23:41:08
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 01-FEB-2014 21:43:42
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 01-FEB-2014 21:43:49
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 01-FEB-2014 21:43:56
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 01-FEB-2014 21:44:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 02-FEB-2014 23:50:51
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 02-FEB-2014 23:50:53
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 02-FEB-2014 23:51:07
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 02-FEB-2014 23:51:11
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 02-FEB-2014 23:51:23
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 02-FEB-2014 23:51:34
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 02-FEB-2014 23:52:00
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 02-FEB-2014 23:52:07
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 02-FEB-2014 23:52:11
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 02-FEB-2014 23:53:29
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 02-FEB-2014 23:53:52
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 03-FEB-2014 00:04:09
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 03-FEB-2014 00:04:18
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 03-FEB-2014 00:04:26
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 03-FEB-2014 00:04:35
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 03-FEB-2014 00:05:26
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 03-FEB-2014 00:06:29
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 03-FEB-2014 00:09:22
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 03-FEB-2014 00:09:23
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 03-FEB-2014 00:09:35
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 03-FEB-2014 00:10:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 03-FEB-2014 00:17:16
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 03-FEB-2014 00:18:59
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 03-FEB-2014 00:19:05
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 03-FEB-2014 00:19:07
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 03-FEB-2014 00:19:12
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 03-FEB-2014 00:31:38
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 03-FEB-2014 00:31:41
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=D:\project\miniproject\miniproject\bin\Debug\miniproject.vshost.exe)(HOST=ABHISHEK-PC)(USER=Abhishek)))(ADDRESS=(PROTOCOL=TCP)(HOST=169.254.127.58)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 03-FEB-2014 00:32:52
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0

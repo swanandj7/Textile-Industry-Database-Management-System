@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BB9B9A79-856B-4F23-A577-CEA857A70FB4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>miniproject</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>miniproject.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>miniproject.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp">
+      <HintPath>..\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.pdfa">
+      <HintPath>..\itextsharp.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xtra">
+      <HintPath>..\itextsharp.xtra.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bill.Designer.vb">
+      <DependentUpon>Bill.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bill.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerEntry.Designer.vb">
+      <DependentUpon>CustomerEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recovery.Designer.vb">
+      <DependentUpon>Recovery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Recovery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Remain.Designer.vb">
+      <DependentUpon>Remain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Remain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Overall.Designer.vb">
+      <DependentUpon>Overall.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Overall.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Print.Designer.vb">
+      <DependentUpon>Print.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Print.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TransportEntry.Designer.vb">
+      <DependentUpon>TransportEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TransportEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transactions.Designer.vb">
+      <DependentUpon>Transactions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transactions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SupplierEntry.Designer.vb">
+      <DependentUpon>SupplierEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SupplierEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stock.Designer.vb">
+      <DependentUpon>Stock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Stock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QualityEntry.Designer.vb">
+      <DependentUpon>QualityEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="QualityEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PurchaseRequest.Designer.vb">
+      <DependentUpon>PurchaseRequest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PurchaseRequest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Payment.Designer.vb">
+      <DependentUpon>Payment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Payment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderRequest.Designer.vb">
+      <DependentUpon>OrderRequest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OrderRequest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.vb">
+      <DependentUpon>LoginForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report.Designer.vb">
+      <DependentUpon>Report.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Homeform.Designer.vb">
+      <DependentUpon>Homeform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Homeform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Bill.resx">
+      <DependentUpon>Bill.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerEntry.resx">
+      <DependentUpon>CustomerEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recovery.resx">
+      <DependentUpon>Recovery.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Remain.resx">
+      <DependentUpon>Remain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Overall.resx">
+      <DependentUpon>Overall.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Print.resx">
+      <DependentUpon>Print.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TransportEntry.resx">
+      <DependentUpon>TransportEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transactions.resx">
+      <DependentUpon>Transactions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SupplierEntry.resx">
+      <DependentUpon>SupplierEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stock.resx">
+      <DependentUpon>Stock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QualityEntry.resx">
+      <DependentUpon>QualityEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PurchaseRequest.resx">
+      <DependentUpon>PurchaseRequest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payment.resx">
+      <DependentUpon>Payment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderRequest.resx">
+      <DependentUpon>OrderRequest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report.resx">
+      <DependentUpon>Report.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Homeform.resx">
+      <DependentUpon>Homeform.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
